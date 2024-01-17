@@ -11,16 +11,6 @@
 <hr>
   <p style"position:absolute ; bottom:20px">
    
-##  Academic Source 🧑‍🎓
-#Notes & Assignment📝
-
--Technology and Information System -> [Link to TIS ]()
-
--Discrete Structure                -> [Link to DS ](DISCREET STRUCTURE)
-
--Digital Logic                     -> [Link to DL ](DIGITAL LOGIC)
-
--Programming Technique I           -> [Link to PTI ](PROGRAMMING TECHNIQUE)
 ### :man_technologist: About Me :
 
 - 📆 22/07/2004
@@ -47,6 +37,19 @@
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+
+##  Academic Source 🧑‍🎓
+#Notes & Assignment📝
+
+-Technology and Information System -> [Link to TIS ](https://github.com/dheshieghan227/Technology-and-Information-System)
+
+-Discrete Structure                -> [Link to DS ](https://github.com/dheshieghan227/Discreet-structure
+)
+
+-Digital Logic                     -> [Link to DL ](https://github.com/dheshieghan227/Digital-logic
+)
+
+-Programming Technique I           -> [Link to PTI ](https://github.com/dheshieghan227/Programming-technique)
 
 
 ## 📫 How to reach me
