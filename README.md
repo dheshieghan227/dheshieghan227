@@ -1,17 +1,41 @@
+<p align="center"> <img src="https://blog.lingoda.com/wp-content/uploads/2020/10/How-To-Say-Hello-in-10-Languages.jpg" height="300" ; width="500"> </p>
 
-# Hi there, I'm DHESHIEGHAN 👋
 
-Hi, my name is <b>DHESHIEGHAN</b>, <b><em>A Friend, Dude and Buddy From Earth</em></b> and I am 20 years old. I come from <em>Selangor, Malaysia</em>. In my free time, I enjoy playing football and badminton, as well as playing video games. I also like to watch youtube and movies, especially those with themes of adventure, detective fiction, and crime stories. I'm a curious person and enjoy exploring new things, especially when it comes to learning about the world's crime story.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Dheshieghan</h1>
 
-Currently, I'm a <b><mark>first-year student pursuing a degree in **[Computer Science in Data Engineering](https://comp.utm.my/secp/)** at **[Universiti Teknologi Malaysia (UTM)](https://www.utm.my/)**</mark></b>. I chose this degree because I'm extremely interested in this field and want to gain as much knowledge as possible. I'm also attracted to the potential salary of this field and hope to learn everything I can both within and outside my degree in order to prepare for my future career.
+<p align="centre">
+  <em>
+    <b>I'm </b> a first year <b>Data Engineering</b> undergraduate from <b>University of Technology Malaysia</b>.
+    An aspiring <b>Data engineer</b>&nbsp; <b>and Learning Programmer</b>&nbsp;
+    <br>
+<hr>
+  <p style"position:absolute ; bottom:20px">
+   
+##  Academic Source 🧑‍🎓
+#Notes & Assignment📝
 
-Apart from that, I've always been fascinated by digital technology, which ultimately led me to pursue a degree in computer science. I'm excited to see where this path takes me and am eager to continue exploring all the opportunities that come my way.
+-Technology and Information System -> [Link to TIS ]()
 
+-Discrete Structure                -> [Link to DS ](DISCREET STRUCTURE)
+
+-Digital Logic                     -> [Link to DL ](DIGITAL LOGIC)
+
+-Programming Technique I           -> [Link to PTI ](PROGRAMMING TECHNIQUE)
 ### :man_technologist: About Me :
 
 - 📆 22/07/2004
-- 🏫 Study at University Technology Malaysia
-- 📝 Learning SPECIAL TOPIC IN DATA ENGINEERING
+- 🏫 Studying at University Technology Malaysia
+- 📝 Learning to be the best upcoming data engineer
+
+  ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+|Home🏡:| Puchong ，Selangor |
+|--------|--------|
+| Academic Career📖: |<p>High School :<pre>SMK USJ 12</p></pre><p>College :<pre> Kolej Matrikulasi Melaka </pre></p> <p>University :<pre> University Technology Malaysia </pre>|
+| Cerificates📚: |<p>SMK USJ 12 :<pre>SPM 8A</p></pre><p>Kolej Matrikulasi MELAKA:<pre>PNGK 4.00</pre></p><p>Muet:<pre>4.00</pre>|
+| Sports🏅:|<pre>⚽Football </p> </pre><p><pre>🏸Badminton </p>|
+| Hobbies☕: |<pre>Playing Mobile Games📱</p></pre><p><pre>Binge watching movies/tv shows🖥️<pre>|
+
+  
 
 ## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
