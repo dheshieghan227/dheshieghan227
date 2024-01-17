@@ -33,6 +33,9 @@ Apart from that, I've always been fascinated by digital technology, which ultima
   
  <a href="mailto:dheshieghan@gmail.com"><img src="https://img.shields.io/badge/dheshieghan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
 
+ <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheshieghan227" alt="dheshieghan227" /></a> </p>
+<p><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rick8704&" alt="Rick8704" /><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Rick8704&show_icons=true&locale=en" alt="Rick8704" /></p>
+
 <!--- Your Fun Facts Here --->
 ## ⚡ Fun facts
 * I'm a big fan of spicy food and can handle some of the hottest dishes out there.
