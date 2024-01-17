@@ -52,7 +52,7 @@
 -Programming Technique I           -> [Link to PTI ](https://github.com/dheshieghan227/Programming-technique)
 
 ## MY CV
--Link to my cv ->  
+-Link to my cv -> [Link to CV](https://github.com/dheshieghan227/MY-CV)
 
 ## 📫 How to reach me
 <p align="left">
