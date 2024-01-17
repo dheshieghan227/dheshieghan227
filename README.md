@@ -52,7 +52,7 @@
 -Programming Technique I           -> [Link to PTI ](https://github.com/dheshieghan227/Programming-technique)
 
 ## MY CV
--Link to my cv -> [MY CV](file:///C:/Users/Dell/Downloads/CV%20Dheshieghan%20Saravana%20Moorthy%20%231.pdf)
+-Link to my cv ->  
 
 ## 📫 How to reach me
 <p align="left">
