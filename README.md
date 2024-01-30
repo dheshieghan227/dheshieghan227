@@ -16,7 +16,7 @@
 - 📆 22/07/2004
 - 🏫 Studying at University Technology Malaysia
 - 📝 Learning to be the best upcoming data engineer
-- -Link to my other eportfolio -> [Link to eportfoli](https://dheshieghan227.github.io/)
+- -Link to my other eportfolio -> [Link to eportfolio](https://dheshieghan227.github.io/)
 
   ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 |Home🏡:| Puchong ，Selangor |
